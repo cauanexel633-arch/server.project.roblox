@@ -1,0 +1,5 @@
+{
+  "name": "@forge3d/database",
+  "private": true,
+  "type": "module"
+}

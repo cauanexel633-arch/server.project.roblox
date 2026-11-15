@@ -1,0 +1,5 @@
+{
+  "name": "@forge3d/shared",
+  "private": true,
+  "type": "module"
+}

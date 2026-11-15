@@ -1,0 +1,5 @@
+{
+  "name": "@forge3d/api",
+  "private": true,
+  "type": "module"
+}
